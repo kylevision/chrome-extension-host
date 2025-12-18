@@ -1,9 +1,10 @@
 <?xml version='2.5' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='adjkcpgakkgeekffjhojpanmdlpnfonm'>
-    <updatecheck codebase='https://github.com/kylevision/chrome-extension-host/raw/refs/heads/main/ProxySquash.crx' version='1.0.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/kylevision/chrome-extension-host/refs/heads/main/ProxySquash.crx' version='1.0.0' />
   </app>
 
 </gupdate>
+
 
 
